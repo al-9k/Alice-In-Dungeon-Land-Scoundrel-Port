@@ -37,6 +37,3 @@ to the original code in this repository — **not** to the items listed below.
 - **Scoundrel** — original tabletop card game design by Zach Gage & Kurt Bieg.
   This project is an unofficial digital implementation created for portfolio
   purposes.
-
-> Replace the _confirm_ placeholders with the actual license name and a link to
-> each asset's page before publishing.

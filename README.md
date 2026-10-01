@@ -15,11 +15,8 @@ A quick-and-dirty solitaire dungeon crawler built in Unity! Test your luck, stac
 This project is a digital implementation of **Scoundrel**, the classic tabletop card game originally designed by **Zach Gage** and **Kurt Bieg**.
 
 <p align="center">
-  <img src="Icon/gameplay1.png" alt="Gameplay" />
-</p>
-
-<p align="center">
-  <img src="Icon/gameplay2.png" alt="Gameplay" />
+  <img src="Icon/gameplay1.png" alt="Gameplay 1" width="49%" />
+  <img src="Icon/gameplay2.png" alt="Gameplay 2" width="49%" />
 </p>
 
 ## How to Play
