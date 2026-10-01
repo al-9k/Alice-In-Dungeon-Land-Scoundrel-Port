@@ -1,0 +1,50 @@
+# === Unity generated folders ===
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# === Crash reports / diagnostics ===
+/mono_crash.*.json
+crashlytics-build.properties
+*_BurstDebugInformation_DoNotShip/
+
+# Unity crash-recovery auto-saves
+/Assets/_Recovery/
+
+# === Proprietary card art (PNGs only — not redistributable) ===
+/Assets/Sprites/**/*.png
+/Assets/Sprites/**/*.png.meta
+/Assets/Resources/**/*.png
+/Assets/Resources/**/*.png.meta
+
+# === No-redistribution assets (licensed; kept out of the public repo) ===
+/Assets/Backgrounds/
+/Assets/Backgrounds.meta
+/Assets/Shaders/DissolveShader/
+/Assets/Shaders/DissolveShader.meta
+
+# === Generated IDE / solution files (regenerated on open) ===
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vs/
+.idea/
+.vscode/
+
+# === OS files ===
+.DS_Store
+Thumbs.db
